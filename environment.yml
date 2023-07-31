@@ -1,0 +1,11 @@
+name: pain_med_env
+channels: defaults
+dependencies:
+- numpy
+- pandas
+- pip
+- pip:
+  - jupyterlab
+  - python-Levenshtein
+  - fuzzywuzzy
+  
